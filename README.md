@@ -1,8 +1,8 @@
 # Hello, I'm Manuel Vergaz
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![Node](https://img.shields.io/badge/Node-Intermediate-darkgreen)
+![HTML](https://img.shields.io/badge/HTML-Expert-darkgreen)
+![CSS](https://img.shields.io/badge/CSS-Expert-darkgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-darkgreen)
+![Node](https://img.shields.io/badge/Node-Intermediate-yellow)
 ### Freelance developer.
 - 💻 I'm currently working on Microservices
 - 👀 I’m interested in Node.js
