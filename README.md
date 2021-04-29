@@ -1,10 +1,7 @@
+### Here is what I'm working on
 - 👋 Hi, I’m @mvergaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mvergaz/mvergaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm currently working on Microservices
+- 👀 I’m interested in Node.js
+- 🌱 I’m currently learning fastify
+- 💞️ I’m looking to collaborate on everything about microservices
+- 📫 How to reach me [www.linkedin/in/mvergaz]
