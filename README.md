@@ -6,6 +6,6 @@
 ### Freelance developer.
 - 💻 I'm currently working on Microservices
 - 👀 I’m interested in Node.js
-- 🌱 I’m currently learning fastify
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on everything about microservices
 - 📫 How to reach me [www.linkedin.com/in/manuel-vergaz]
