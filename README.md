@@ -1,12 +1,11 @@
-# Hello, I'm Manuel Vergaz
+# Hola, me llamo Manuel Vergaz
 
-![Oracle APEX](https://img.shields.io/badge/Node-Expert-darkgreen)
-![HTML](https://img.shields.io/badge/HTML-Expert-darkgreen)
-![CSS](https://img.shields.io/badge/CSS-Expert-darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-darkgreen)
-![Node](https://img.shields.io/badge/Node-Expert-darkgreen)
+![Oracle APEX](https://img.shields.io/badge/APEX-Expert-darkgreen)
+![PL/SQL](https://img.shields.io/badge/PLSQL-Expert-darkgreen)
+![Oracle DB](https://img.shields.io/badge/Oracle-Expert-darkgreen)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-darkgreen)
 
-## Freelance developer
+## Desarrollador *freelance*
 
 - 💻 I'm currently working on Microservices
 - 👀 I’m interested in Node.js
