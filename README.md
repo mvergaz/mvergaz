@@ -8,7 +8,6 @@
 ## Desarrollador *freelance*
 
 - 💻 Actualmente trabajo con Oracle APEX
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on everything about microservices
-- 📫 How to reach me [www.linkedin.com/in/manuel-vergaz]
+- 👀 Me gusta Node.js
+- 🌱 En la actualidad estudio OCI
+- 📫 Puedes encontrarme en [www.linkedin.com/in/manuel-vergaz]
