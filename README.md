@@ -8,6 +8,6 @@
 ## Desarrollador *freelance*
 
 - 💻 Actualmente trabajo con Oracle APEX
-- 👀 Me gusta Node.js
+- 👀 Me gusta `Node.js`
 - 🌱 En la actualidad estudio OCI
 - 📫 Puedes encontrarme en [www.linkedin.com/in/manuel-vergaz]
